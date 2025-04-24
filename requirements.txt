@@ -1,0 +1,6 @@
+sounddevice
+numpy
+soundfile
+pydub
+pynput
+openai

@@ -1,4 +1,4 @@
-# Speech to keystrokes
+# Speech to Keystrokes
 
 This is a tool that is able to record audio, transcribe it using Whisper and then write it out using pynput.
 This is helpful for writing cursor prompts or other tools that don't have speech to text integration.

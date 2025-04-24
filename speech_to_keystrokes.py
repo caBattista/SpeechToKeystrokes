@@ -121,7 +121,7 @@ class SpeechToKeystrokes:
 
 if __name__ == "__main__":
     # Replace with your OpenAI API key
-    API_KEY = "sk-proj-"
+    API_KEY = ""
     
     # Create instance with Alt-R as the hotkey combination
     stk = SpeechToKeystrokes(modifier_key='alt', trigger_key='r', api_key=API_KEY)
